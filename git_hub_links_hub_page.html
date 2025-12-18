@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Meta -->
+  <title>My Online Tools & Websites | Free Tools & Blogs</title>
+  <meta name="description" content="Explore my collection of free online tools, blogs, calculators, job portals, live scores, and image editing utilities." />
+  <meta name="keywords" content="free tools, image editor, online calculator, jobs portal, live score, quick tools, blogs" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="My Online Tools & Websites" />
+  <meta property="og:description" content="Free tools, calculators, blogs, and useful online services in one place." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="og-image.png" />
+
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #222;
+      --accent: #0077ff;
+    }
+    body.dark {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --text: #e5e7eb;
+      --accent: #38bdf8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      transition: background .4s, color .4s;
+    }
+    header {
+      padding: 40px 20px 10px;
+      text-align: center;
+    }
+    header h1 { font-size: 2.4rem; }
+    header p { opacity: .8; }
+    .toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: var(--card);
+      border: none;
+      padding: 10px 14px;
+      border-radius: 30px;
+      cursor: pointer;
+      font-size: 14px;
+      box-shadow: 0 10px 20px rgba(0,0,0,.1);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+      padding: 40px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    .card {
+      background: var(--card);
+      padding: 25px;
+      border-radius: 16px;
+      text-align: center;
+      text-decoration: none;
+      color: var(--text);
+      box-shadow: 0 10px 30px rgba(0,0,0,.08);
+      transform: translateY(30px);
+      opacity: 0;
+      animation: fadeUp .8s forwards;
+    }
+    .card:hover { transform: translateY(-6px); }
+    .card img {
+      width: 60px;
+      height: 60px;
+      object-fit: contain;
+      margin-bottom: 15px;
+    }
+    .card h3 { margin: 10px 0 5px; }
+    .card span { font-size: 14px; opacity: .7; }
+    footer {
+      text-align: center;
+      padding: 30px;
+      font-size: 14px;
+      opacity: .7;
+    }
+    @keyframes fadeUp {
+      to { transform: translateY(0); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+<button class="toggle" onclick="toggleDark()">🌙 Dark</button>
+
+<header>
+  <h1>🌐 My Websites Hub</h1>
+  <p>Free tools, blogs & useful online services</p>
+</header>
+
+<section class="grid">
+  <a class="card" style="animation-delay:.1s" href="https://freeimageeditor.online/" target="_blank">
+    <img src="logos/image-editor.png" alt="Free Image Editor" />
+    <h3>Free Image Editor</h3>
+    <span>Edit images online</span>
+  </a>
+
+  <a class="card" style="animation-delay:.2s" href="https://freeonline-calculator.online/" target="_blank">
+    <img src="logos/calculator.png" alt="Online Calculator" />
+    <h3>Online Calculator</h3>
+    <span>Fast & accurate</span>
+  </a>
+
+  <a class="card" style="animation-delay:.3s" href="https://homecheftips.blog/" target="_blank">
+    <img src="logos/chef.png" alt="Home Chef Tips" />
+    <h3>Home Chef Tips</h3>
+    <span>Recipes & cooking hacks</span>
+  </a>
+
+  <a class="card" style="animation-delay:.4s" href="https://jobsworldhub.com/" target="_blank">
+    <img src="logos/jobs.png" alt="JobsWorldHub" />
+    <h3>JobsWorldHub</h3>
+    <span>Careers & jobs</span>
+  </a>
+
+  <a class="card" style="animation-delay:.5s" href="https://quicktoolsbox.online/" target="_blank">
+    <img src="logos/tools.png" alt="Quick Tools Box" />
+    <h3>Quick Tools Box</h3>
+    <span>Daily-use tools</span>
+  </a>
+
+  <a class="card" style="animation-delay:.6s" href="https://livescorebuzz.online/" target="_blank">
+    <img src="logos/live.png" alt="Live Score Buzz" />
+    <h3>Live Score Buzz</h3>
+    <span>Sports updates</span>
+  </a>
+</section>
+
+<footer>
+  © 2025 • Built by Saqlain Anjum
+</footer>
+
+<script>
+  function toggleDark() {
+    document.body.classList.toggle('dark');
+  }
+</script>
+
+</body>
+</html>
