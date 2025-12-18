@@ -12,4 +12,4 @@ This GitHub Page collects & links all my major online sites and tools.
 
 Visit the site: https://<your-username>.github.io/
 
-Built with ❤️ by **<Saqlain Anjum>**
+Built with ❤️ by **Saqlain Anjum**
