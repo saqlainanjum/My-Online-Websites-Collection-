@@ -1,92 +1,111 @@
 🌐 My Web Projects Portfolio
 
-Welcome to my online portfolio!
-This repository showcases my collection of live websites, tools, and platforms built with a focus on utility, design, and user experience.
+Welcome to my web development portfolio!
+
+This repository showcases a selection of live websites I have designed, developed, and launched. My work focuses on creating fast, responsive, SEO-friendly websites using WordPress, PHP, HTML, CSS, JavaScript, and AI-assisted development workflows.
+
+---
 
 🚀 Featured Projects
+
 🎁 Warm Gifting
 
 🔗 https://warmgifting.com
 
-A creative platform focused on:
+A creative gifting and celebration platform featuring:
 
-Unique gift ideas
-Party themes (Birthday, Bridal Shower, Baby Shower, etc.)
-DIY crafts & packaging inspiration
-👉 Built for users looking for thoughtful and aesthetic gifting inspiration.
+- Gift ideas for every occasion
+- Birthday, Wedding & Baby Shower inspiration
+- DIY crafts and decoration guides
+- Printable cards and creative resources
+
+Tech: WordPress, PHP, HTML, CSS, JavaScript, SEO
+
+---
+
+🧠 ADHD Guider
+
+🔗 https://adhdguider.com
+
+An educational platform dedicated to ADHD awareness and productivity.
+
+Features include:
+
+- ADHD guides and resources
+- Productivity techniques
+- Organization and focus strategies
+- Research-based educational content
+
+Tech: WordPress, Custom Templates, SEO, Responsive Design
+
+---
+
 🆔 National ID Digital PH
 
 🔗 https://nationaliddigital.ph
 
-An informational platform providing:
+A comprehensive information portal covering the Philippine National ID system.
 
-Updates on Philippine National ID (PhilSys)
-Registration guidance
-Digital ID trends & announcements
-👉 Focused on simplifying government-related information for users.
-🧰 Utility & Tools Websites
-🖼️ Free Image Editor
+Features:
 
-🔗 https://freeimageeditor.online/
+- Registration guides
+- Digital ID updates
+- Frequently Asked Questions
+- Government service resources
 
-Edit images directly in browser
-No installation required
-Fast & lightweight
-🧮 Free Online Calculator
+Tech: WordPress, PHP, HTML, CSS, JavaScript
 
-🔗 https://freeonline-calculator.online/
+---
 
-Simple and responsive calculator
-Works across all devices
-Clean UI for quick calculations
-⚡ Quick Tools Box
+🏛️ Public Services Desk
 
-🔗 https://quicktoolsbox.online/
+🔗 https://publicservicesdesk.com
 
-Collection of everyday useful tools
-Designed for speed and simplicity
-All-in-one utility hub
-📊 Content & Niche Platforms
-🍳 Home Chef Tips
+A public information platform providing easy-to-understand guides for government and digital public services.
 
-🔗 https://homecheftips.blog/
+Features:
 
-Cooking tips & guides
-Easy recipes and kitchen hacks
-Beginner-friendly content
-💼 JobsWorldHub
+- Government service guides
+- Digital service tutorials
+- Public assistance resources
+- SEO-optimized informational content
 
-🔗 https://jobsworldhub.com/
+Tech: WordPress, Custom PHP Templates, Performance Optimization
 
-Latest job listings
-Career tips & guidance
-SEO-optimized job posts
-⚽ Live Score Buzz
+---
 
-🔗 https://livescorebuzz.online/
+💻 Skills Demonstrated
 
-Live sports updates
-Score tracking
-Fast-loading sports platform
-🌍 Live Portfolio Page
+- WordPress Development
+- Custom PHP Page Templates
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Search Engine Optimization (SEO)
+- Website Performance Optimization
+- Domain & Hosting Management
+- AI-assisted Development (ChatGPT, Claude, Cursor)
+- Website Deployment & Maintenance
 
-👉 https://<your-username>.github.io/
+---
 
-💡 About Me
+👨‍💻 About Me
 
 Saqlain Anjum
 
-AR/VR Game Developer 🎮
-Web Creator 🌐
-Android App Developer 📱
+Web Developer • AR/VR Developer • Android App Developer
 
-I build digital products that combine functionality, performance, and modern UI/UX.
+I enjoy building modern websites and digital products that combine clean design, excellent user experience, strong SEO, and high performance. I leverage AI-powered development tools to accelerate development while maintaining code quality and usability.
+
+---
 
 📬 Connect With Me
-GitHub: https://github.com/
-<your-username>
-Website Portfolio: (Add if needed)
-⭐ Support
 
-If you like my work, consider giving this repo a ⭐
-It helps and motivates me to build more useful projects!
+GitHub: https://github.com/saqlainanjum
+
+LinkedIn: https://www.linkedin.com/in/saqlain-anjum-85a6671a6
+
+---
+
+⭐ If you find my work helpful, please consider giving this repository a star. Your support motivates me to continue building useful digital products.
